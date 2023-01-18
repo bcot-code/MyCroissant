@@ -1,0 +1,22 @@
+.body {
+  background-color: bisque;
+  color: brown;
+}
+
+h1,
+p {
+  text-align: center;
+  padding-top: 20px;
+}
+
+h4 {
+  text-align: center;
+  padding-top: 20px;
+}
+footer {
+  text-align: center;
+}
+footer a {
+  margin: 0 20px;
+  padding-top: 15px;
+}
